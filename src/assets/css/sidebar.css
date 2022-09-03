@@ -1,0 +1,15 @@
+.iconActive {
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: rgb(84 96 254 / 18%) 0px 0px 6px 2px;
+    color: #5460fe;
+}
+
+.iconInactive {
+    padding: 15px;
+    color: #B3B8FE;
+}
+
+.iconInactive:hover {
+    color: #5460fe;
+}

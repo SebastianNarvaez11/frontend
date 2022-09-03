@@ -1,0 +1,59 @@
+.scheduleActive {
+    color: #98A4AF;
+    font-size: 15px
+}
+
+.scheduleActive:hover {
+    color: #5561FE;
+}
+
+
+.card_grade {
+    color: #98A4AF;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: rgb(231 234 242) 0px 0px 6px 2px;
+    cursor: pointer;
+    margin-right: 20px
+}
+
+.card_grade_active {
+    color: #23303B;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: rgb(231 234 242) 0px 0px 8px 8px;
+    cursor: pointer;
+    margin-right: 20px
+}
+
+.card_grade:hover {
+    box-shadow: rgb(231 234 242) 0px 0px 8px 8px;
+}
+
+
+.style_scrooll::-webkit-scrollbar {
+    width: 10px;
+    /* width of the entire scrollbar */
+}
+
+.style_scrooll::-webkit-scrollbar-track {
+    background: transparent;
+    /* color of the tracking area */
+}
+
+.style_scrooll::-webkit-scrollbar-thumb {
+    background-color: #c1c1c1;
+    /* color of the scroll thumb */
+    border-radius: 20px;
+    /* roundness of the scroll thumb */
+    /* border: 2px solid orange; */
+    /* creates padding around scroll thumb */
+}
+
